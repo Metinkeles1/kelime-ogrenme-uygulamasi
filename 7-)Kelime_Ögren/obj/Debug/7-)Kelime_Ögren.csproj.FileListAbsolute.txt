@@ -1,0 +1,32 @@
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.exe.config
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.exe
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.pdb
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.Form1.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.Properties.Resources.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.exe
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.pdb
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.exe.config
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.exe
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.pdb
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.Properties.Resources.resources
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.exe
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.pdb
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.FrmKayıt.resources
+C:\Users\metin\Desktop\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.FrmUygulama.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.exe.config
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.exe
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\bin\Debug\7-)Kelime_Ögren.pdb
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.FrmKayıt.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.FrmUygulama.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\_7__Kelime_Ögren.Properties.Resources.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.exe
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\7-)Kelime_Ögren\7-)Kelime_Ögren\obj\Debug\7-)Kelime_Ögren.pdb
