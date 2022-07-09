@@ -1,2 +1,2 @@
-# kelime-ogrenme-uygulamas-
+# kelime-ogrenme-uygulamasi
 (C# - ACCESS)
